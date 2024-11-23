@@ -1,24 +1,38 @@
-# TARA - CH2-PS559 - Bangkit 2023 Batch 2
+![TARA Logo](https://img.freepik.com/free-vector/crazy-style-food-illustration_52683-94623.jpg?ga=GA1.1.1346421009.1721020033&semt=ais_hybrid) <!-- Ganti dengan URL logo proyek Anda -->
+
+# C242-PS378 
+
+## Team Members
+| Name                          | Role                | ID           |
+|-------------------------------|---------------------|--------------|
+| Muhammad Ghaza Azhar Lesmana  | Cloud Computing     | C117B4KY2858 |
+| Anggit Nur Ridho              | Cloud Computing     | C117B4KY0554 |
+| La Ode Rafif Setiawan         | Mobile Development  | A117B4KY2243 |
+| Rafi Putra Darmawan           | Mobile Development  | A117B4KY3586 |
+| Muhammad Rama Reyswara        | Machine Learning    | M117B4KY3021 |
+| Rangga Rizky Radityo          | Machine Learning    | M125B4KY3691 |
+| Yuval Adilah                  | Machine Learning    | M117B4KY4584 |
 
 ---
 
-**Welcome to the TARA Project!**  
-Exploring solutions in the fields of **Tourism, Culture, and Hospitality** to create impactful innovations.
+## Theme
+**Health Innovation: Empowering Vulnerable Communities for Health and Well-being**
 
 ---
 
-## Repositories
+## Info
+
+
+---
+
+## Links
 - [Mobile Apps Source Code](https://github.com/RafiPutraa/nutrifact-mobile)
 - [Machine Learning Source Code](#)
-- [Cloud Computing Source Code](#)
-- [Backend API](#)
-- [API Documentation](#)
+- [Cloud Computing Source Code]()
+- [TARA APK](#)
+- [Backend API](https://github.com/nuridho-anggit/nutrifact-backend)
+- [API Specification](#)
 
 ---
 
-## About TARA
-Currently, TARA operates in the **Daerah Istimewa Yogyakarta** area due to limited time and resources.
-
----
-
-🌟 **Follow us and explore our journey to revolutionize tourism through technology!**
+*This project is part of a collaborative capstone program aimed at delivering solutions in the Health sector.*
