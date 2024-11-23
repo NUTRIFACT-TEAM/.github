@@ -1,6 +1,4 @@
-![TARA Logo](https://img.freepik.com/free-vector/crazy-style-food-illustration_52683-94623.jpg?ga=GA1.1.1346421009.1721020033&semt=ais_hybrid) <!-- Ganti dengan URL logo proyek Anda -->
-
-# C242-PS378 
+# NUTRIFACT C242-PS378 
 
 ## Team Members
 | Name                          | Role                | ID           |
