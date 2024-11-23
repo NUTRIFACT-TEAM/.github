@@ -21,8 +21,6 @@
 ## Info
 
 
----
-
 ## Links
 - [Mobile Apps Source Code](https://github.com/RafiPutraa/nutrifact-mobile)
 - [Machine Learning Source Code](#)
