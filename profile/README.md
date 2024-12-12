@@ -46,7 +46,8 @@ Min Android version to run this app : 7.0
 - [Machine Learning Source Code](https://github.com/NUTRIFACT-TEAM/nutrifact-Model-ML.git)
 - [Cloud Computing Source Code](https://github.com/NUTRIFACT-TEAM/nutrifact-backend-main.git)
 - [NutriFact APK](https://drive.google.com/drive/u/1/folders/1EYa3XA7Vlixf0UKGSxhrsN9JJeyYE-YD)
-- [Backend API](https://github.com/nuridho-anggit/nutrifact-backend)
+- [Backend Main API Deploy](http://35.219.110.248:3000/)
+- [Backend ML API Deploy](https://backend-app-ml-16163995977.asia-southeast2.run.app)
 - [API Specification](https://docs.google.com/document/d/1aKdYcVrCo2xBdju2tz53mcMDVIKDKABkL18G7khfXVk/edit?tab=t.0#heading=h.r1sstj5e4ipr)
 
 ---
