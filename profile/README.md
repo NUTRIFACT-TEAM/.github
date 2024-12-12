@@ -1,3 +1,5 @@
+![LOGO](https://ik.imagekit.io/ipjeggjxz/WhatsApp%20Image%202024-12-09%20at%2011.58.51_1186f763.jpg?updatedAt=1734011287846)
+
 # Bangkit Capstone Project
 Team ID: C242-PS378 
 Project Name: Nutrifact
