@@ -33,6 +33,7 @@ Inspired by the Singaporean government's Nutri-Grade labelling policy, which hel
 
 ## Download Our Apps
 You can download APK it here: https://drive.google.com/drive/folders/1EYa3XA7Vlixf0UKGSxhrsN9JJeyYE-YD?usp=drive_link
+
 Min Android version to run this app : 7.0 
 
 ---
