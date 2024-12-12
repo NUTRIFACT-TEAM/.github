@@ -31,7 +31,7 @@ Inspired by the Singaporean government's Nutri-Grade labelling policy, which hel
 ---
 
 ## Video demo
-- [Video Demo](https://drive.google.com/file/d/1IQK20LRdKK6gu2jCX59kXwfiZ4J5nVTi/view?usp=drive_link)
+- [NutriFact Application](https://drive.google.com/file/d/1IQK20LRdKK6gu2jCX59kXwfiZ4J5nVTi/view?usp=drive_link)
 ---
 
 ## Download Our Apps
