@@ -1,4 +1,4 @@
-![LOGO](https://ik.imagekit.io/ipjeggjxz/LogoApps.png?updatedAt=1734017667058)
+<img src="https://ik.imagekit.io/ipjeggjxz/LogoApps.svg?updatedAt=1734017737561" width="192" height="198" alt="Logo">
 
 # Bangkit Capstone Project
 Team ID: C242-PS378 
