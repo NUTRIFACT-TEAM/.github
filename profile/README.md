@@ -1,4 +1,4 @@
-![LOGO](https://ik.imagekit.io/ipjeggjxz/Logo2_xya852ymT?updatedAt=1734011651152)
+![LOGO](https://ik.imagekit.io/ipjeggjxz/Logo.png?updatedAt=1734017389791)
 
 # Bangkit Capstone Project
 Team ID: C242-PS378 
