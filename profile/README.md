@@ -10,7 +10,7 @@ Additionally, a 2020 Euromonitor International survey revealed that only 30% of 
 Inspired by the Singaporean government's Nutri-Grade labelling policy, which helps consumers choose healthier foods and beverages based on sugar and saturated fat content, our team developed the NutriFact Project. NutriFact leverages mobile technology and machine learning to translate complex nutrition labels into an easy "A" to "D" grade system. This allows consumers to assess the healthiness of products quickly through their phone screens. The project aims to enhance nutritional awareness, reduce disease risk, and promote healthy lifestyles within Indonesian society.
 
 ## Team Members
-![Team]((https://ik.imagekit.io/ipjeggjxz/Screenshot%202024-12-12%20194525.png?updatedAt=1734007763101))
+![Team](https://ik.imagekit.io/ipjeggjxz/Screenshot%202024-12-12%20194525.png?updatedAt=1734007763101)
 | Name                          | Role                | ID           |
 |-------------------------------|---------------------|--------------|
 | Muhammad Ghaza Azhar Lesmana  | Cloud Computing     | C117B4KY2858 |
