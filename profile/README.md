@@ -23,12 +23,12 @@
 ---
 
 ## Links
-- [Mobile Apps Source Code](https://github.com/RafiPutraa/nutrifact-mobile)
+- [Mobile Apps Source Code](https://github.com/NUTRIFACT-TEAM/nutrifact-mobile)
 - [Machine Learning Source Code]
 - [Cloud Computing Source Code]
-- [NutriFact APK]
+- [NutriFact APK](https://drive.google.com/drive/u/1/folders/1EYa3XA7Vlixf0UKGSxhrsN9JJeyYE-YD)
 - [Backend API](https://github.com/nuridho-anggit/nutrifact-backend)
-- [API Specification]
+- [API Specification](https://docs.google.com/document/d/1aKdYcVrCo2xBdju2tz53mcMDVIKDKABkL18G7khfXVk/edit?tab=t.0#heading=h.r1sstj5e4ipr)
 
 ---
 
